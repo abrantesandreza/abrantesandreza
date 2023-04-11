@@ -73,11 +73,13 @@
 
 
 ## Github Stats
-<br/> 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrantesandreza&hide_border=true&layout=compact" align="center" /></div>  
-<br/> 
+<br/>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=abrantesandreza&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+![abrantesandreza's Stats](https://github-readme-stats.vercel.app/api?username=abrantesandreza&theme=nightowl&show_icons=true&hide_border=true&count_private=true)
+
+![abrantesandreza's Streak](https://github-readme-streak-stats.herokuapp.com/?user=abrantesandreza&theme=nightowl&hide_border=true)
+
+![abrantesandreza's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abrantesandreza&theme=nightowl&show_icons=true&hide_border=true&layout=compact)
 
 <br/>  
 
