@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning C# and Java 💻❤️  
 
-- ⚡ Fun fact: I love to play BeachVolleyball and Footvolley ⚽  
+- ⚡ Fun fact: I love to play Alta and Footvolley ⚽  
   
 
 <br/>  
