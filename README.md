@@ -3,7 +3,7 @@
 
 <br/>
   
-- 🔭 I’m currently working on a Sales Website (https://github.com/abrantesandreza/Sales-Web-MVC)
+- 🔭 I’m currently working on a Sales Website ASP.Net Core MVC (https://github.com/abrantesandreza/Sales-Web-MVC)
 
 - 🌱 I’m currently learning C# and Java 💻❤️  
 
