@@ -5,7 +5,7 @@
   
 - 🔭 I’m currently working on a Sales Website using C# ASP.NET Core MVC with Entity Framework and SQL Server (https://github.com/abrantesandreza/Sales-Web-MVC)
 
-- 🌱 I’m currently learning C# and Java 💻❤️  
+- 🌱 I’m currently learning C# and .NET 💻❤️  
 
 - ⚡ Fun fact: I love to play Alta and Footvolley ⚽  
   
