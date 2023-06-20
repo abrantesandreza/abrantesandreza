@@ -3,7 +3,7 @@
 
 <br/>
   
-- 🔭 I’m currently working on an e-commerce application built using C#, ASP.NET Core MVC, with Entity Framework and SQL Server (https://github.com/abrantesandreza/WordWise_MVC)
+- 🔭 I’m currently working on an e-commerce web application built using C#, ASP.NET Core MVC, with Entity Framework and SQL Server (https://github.com/abrantesandreza/WordWise_MVC)
 
 - 🌱 I’m currently learning C# and ASP.NET Core MVC 💻❤️  
 
