@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andreza Abrantes</h1>
 <h3 align="center">a Software Engineer Student 👩‍💻💻 working in tech since 2022 🚀</h3>
 
-- 🔭 I’m currently working on a RESTful Web API application with Token-Based Authentication in .NET 7 (https://github.com/abrantesandreza/CoastalVilla-API)
+- 🔭 I’m currently working on a **RESTful Web API application with Token-Based Authentication in .NET 7** (https://github.com/abrantesandreza/CoastalVilla-API)
 
 - 🌱 I’m currently learning **RESTful Web API .NET 7 💻❤️**
 
