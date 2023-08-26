@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andreza Abrantes</h1>
 <h3 align="center">a Software Engineer Student 👩‍💻💻 working in tech since 2022 🚀</h3>
 
-- 🔭 I’m currently working on [an e-commerce web application built using C#, ASP.NET Core MVC, with Entity Framework and SQL Server](https://github.com/abrantesandreza/WordWise_MVC)
+- 🔭 I’m currently working on RESTful Web API with Authentication in .NET 7 (https://github.com/abrantesandreza/CoastalVilla-API.git)
 
 - 🌱 I’m currently learning **RESTful Web API (C#) with Authentication 💻❤️**
 
