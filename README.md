@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a **RESTful Web API application with Token-Based Authentication in .NET 7** (https://github.com/abrantesandreza/CoastalVilla-API)
 
-- 🌱 I’m currently learning **RESTful Web API .NET 7 💻❤️**
+- 🌱 I’m currently learning **RESTful Web API in .NET 7 💻❤️**
 
 - ⚡ Fun fact: **I love to play Alta and Footvolley ⚽**
 
