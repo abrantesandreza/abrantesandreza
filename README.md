@@ -5,12 +5,13 @@
 
 - 🌱 I’m currently learning **RESTful Web API in .NET 7 💻❤️**
 
-- 📝 **I like to write articles on** https://medium.com/@andrezadossantosabrantes
+- 📝 I like to write articles on https://medium.com/@andrezadossantosabrantes
 
 - ⚡ Fun fact: **I love to play Alta and Footvolley ⚽**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
+<a href="https://medium.com/@andrezadossantosabrantes" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="@andressaabrantes" height="30" width="98" /></a>
 <a href="https://www.linkedin.com/in/andrezasantosabrantes/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/andrezasantosabrantes/" height="30" width="40" /></a>
 </p>
 
