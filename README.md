@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **RESTful Web API in .NET 7 💻❤️**
 
+- 📝 **I like to write articles on** https://medium.com/@andrezadossantosabrantes
+
 - ⚡ Fun fact: **I love to play Alta and Footvolley ⚽**
 
 <h3 align="center">Connect with me:</h3>
