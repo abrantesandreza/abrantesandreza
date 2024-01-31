@@ -7,7 +7,7 @@
 
 - 📝 I like to write articles on https://medium.com/@andrezadossantosabrantes
 
-- ⚡ Fun fact: **I love to play Alta and Footvolley ⚽*
+- ⚡ Fun fact: **I love to play Alta and Footvolley ⚽**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
