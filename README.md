@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **System Design and Architecture 💻❤️**
 
-- 📝 I like to write articles on https://medium.com/@andrezadossantosabrantes
+- 📝 I like to write **articles** on https://medium.com/@andrezadossantosabrantes
 
 - ⚡ Fun fact: **I love to play Alta and Footvolley ⚽**
 
