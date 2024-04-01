@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andreza Abrantes</h1>
 <h3 align="center">a Software Engineer 👩‍💻💻 working in tech since 2022 🚀</h3>
 
-- 🔭 I’m currently working on the **dōTERRA E-commerce** https://github.com/abrantesandreza/DoTerra-Ecommerce
+- 🔭 I’m currently working on **dōTERRA E-commerce** https://github.com/abrantesandreza/DoTerra-Ecommerce
 
 - 🌱 I’m currently learning **System Design and Architecture 💻❤️**
 
